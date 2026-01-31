@@ -1,0 +1,8 @@
+,Categories,Category Label,Total Customers,Churned Customers,Churn Rate
+0,high school,0,2013,306,15.2
+1,graduate,1,3128,487,15.57
+2,uneducated,2,1487,237,15.94
+3,unknown,3,1519,256,16.85
+4,college,4,1013,154,15.2
+5,post-graduate,5,516,92,17.83
+6,doctorate,6,451,95,21.06
