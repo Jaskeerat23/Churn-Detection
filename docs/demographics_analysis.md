@@ -1,4 +1,4 @@
-# Demographics Analysis 
+# **Demographics Analysis** 
 
 The main demographical features the dataset had were :
 1. Customer_Age
@@ -15,6 +15,6 @@ The main demographical features the dataset had were :
 
 The plots are:
 
-<p align="center">
+<p allign="center">
   <img src="D:/Churn Detection/Plots/customer_age-1.png" alt="Centered image">
 </p>
